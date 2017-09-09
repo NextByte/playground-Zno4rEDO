@@ -61,4 +61,6 @@ public class Main {
 
 As a quick summary, if you needed to see how to iterate over the elements in a Map/HashMap in Java 8, I hope this is helpful.
 
+
+
 _The author of this article is Alvin Alexander, the original article can be found on [https://alvinalexander.com](https://alvinalexander.com/java/java-8-how-to-iterate-elements-map-hashmap)._
