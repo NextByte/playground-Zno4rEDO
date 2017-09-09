@@ -31,21 +31,6 @@ map.forEach((k,v)->System.out.println("key: " + k + ", value: " + v));
 }
 // }
 ```
-
-// { autofold
-public class Main {
-
-public static void main(String[] args) {
-// }
-
-String message = "Hello World!";
-System.out.println(message);
-
-//{ autofold
-}
-
-}
-//}
-```
+This approach uses an _anonymous function_ — also known as a lambda — and it’s similar to the approach used to traverse a Map in Scala.
 
 The author of this article is Alvin Alexander, the original article can be found on its blog [https://alvinalexander.com](https://alvinalexander.com/java/java-8-how-to-iterate-elements-map-hashmap).
