@@ -5,7 +5,7 @@ If you need to iterate over the elements in a Map in [Java 8](http://www.oracle.
 import java.util.HashMap;
 import java.util.Map;
 
-public class IterateOverJava8Map {
+public class Main {
     
     public static void main(String[] args) {
         // }
