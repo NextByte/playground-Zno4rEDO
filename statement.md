@@ -18,12 +18,6 @@ map.put("last_name",  "Alexander");
 map.forEach((k,v)->System.out.println("key: " + k + ", value: " + v));
 
 // { autofold
-
-        // prior to java 8
-        for (Map.Entry<String, String> entry : map.entrySet()) {
-            System.out.println("key: " + entry.getKey() + ", value: " + entry.getValue());
-        }
-
     }
 
 }
