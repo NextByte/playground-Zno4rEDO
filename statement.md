@@ -31,6 +31,10 @@ map.forEach((k,v)->System.out.println("key: " + k + ", value: " + v));
 }
 // }
 ```
-This approach uses an _anonymous function_ — also known as a lambda — and it’s similar to the approach used to traverse a Map in Scala.
+This approach uses an _anonymous function_ — also known as a _lambda_ — and it’s similar to the approach used to traverse a Map in Scala.
+
+#How to iterate a Java 8 Map: A complete example
+The following complete example shows how to iterate over all of the elements in a `Java Map` (or `HashMap`) using both a) the _Java 8_ style and b) the type of code you had to use prior to Java 8:
+
 
 The author of this article is Alvin Alexander, the original article can be found on its blog [https://alvinalexander.com](https://alvinalexander.com/java/java-8-how-to-iterate-elements-map-hashmap).
