@@ -1,5 +1,4 @@
-title: Simple Java template
-
+title: How to iterate (loop) over the elements in a Map in Java 8
 plan:
-  - title: Java Snippet
-    statement: statement.md
+- title: Java Snippet
+  statement: statement.md
