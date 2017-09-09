@@ -38,7 +38,7 @@ The following complete example shows how to iterate over all of the elements in 
 import java.util.HashMap;
 import java.util.Map;
 
-public class IterateOverJava8Map {
+public class Main {
     
     public static void main(String[] args) {
 
